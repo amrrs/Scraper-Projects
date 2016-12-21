@@ -15,4 +15,4 @@ What it does?
 * Extracting Meta Properties from the url
 * Extracting News Title and Displaying Top 10
 
-![Alt text](/py_bs4_yourstory_news.PNG)
+![Alt text](/YS News Scraper/py_bs4_yourstory_news.PNG)
