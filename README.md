@@ -1,6 +1,6 @@
 # Scraper Projects
 
-List of mini projects that involve web scraping in Python:
+List of mini **web scraping** projects in Python:
 
 1. Your Story News Scraper
 2. Indian Blogs Link Extraction 
