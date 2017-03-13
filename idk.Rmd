@@ -1,0 +1,28 @@
+
+---
+title: "Telecom complaints recorded by Ofcom"
+author: "Abdul"
+date: "March 13, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(d3heatmap)
+library(flexdashboard)
+
+inp <- "C:\\VF\\telecom-complaints.csv"
+inp_df <- read.csv(inp, row.names = 1)
+```
+
+### Stats by Player {data-width=650}
+
+```{r}
+d3heatmap(inp_df, scale = "column", na.rm = T, colors = 'YlOrRd',Rowv = F,Colv = F)
+```
+
+### Top Scorers {data-width=350}
+
+```{r}
+knitr::kable(inp_df)
+```
