@@ -2,8 +2,8 @@
 
 Extract Top Ranked Hacker News from the home/landing page of Hacker News
 
-Output:<br />
+Output: 
 
-![Screenshot](/HN Scraper/hn_scrape.PNG)
+![Screenshot](/HN%20Scraper/hn_scrape.PNG)
 
 Courtesy: **Hacker News** (https://news.ycombinator.com/) 
