@@ -4,6 +4,6 @@ A Simple beautifulsoup-enabled Py script to get the list of blog urls from (http
 * Pandas (Output File)
 * Matplotlib (Blog Hosting Type Plot)
 
-![Alt text](/Indian Blog List Extraction/blog_list.PNG)
+![Alt text](/Indian%20Blog%20List%20Extraction//blog_list.PNG)
 
-![Alt text](/Indian Blog List Extraction/blog_cat.PNG)
+![Alt text](/Indian%20Blog%20List%20Extraction//blog_cat.PNG)
