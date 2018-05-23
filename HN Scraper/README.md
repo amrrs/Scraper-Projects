@@ -1,6 +1,6 @@
 # Hacker News Scraper
 
-Extract Top Ranked Hacker News from the home/landing page of Hacker News
+Extract Top Ranked Hacker News from the home/landing page of Hacker News using BeautifulSoup in Python
 
 Output: 
 
