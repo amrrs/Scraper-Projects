@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup, Comment
+from bs4 import BeautifulSoup
 url='https://yourstory.com/feed'
 content = requests.get(url).content
 soup = BeautifulSoup(content, "html.parser")
